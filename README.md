@@ -1,4 +1,4 @@
-<img src="./icons/ruby.png" width="60%" height="30%">
+<img src="./icons/ruby.png" width="40%" height="20%">
 
 ## Hi, my name is Artem
 ## I am a junior full stack developer
