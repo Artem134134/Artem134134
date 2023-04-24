@@ -1,12 +1,12 @@
 <img src="./icons/ruby.png" width="25%">
 
 ## Hi, my name is Artem
+---
 ## I am a junior full stack developer
-
-
-- Learning Rails
-- I will be happy for good advice
-
+---
+**Learning: *Ruby*, *Rails*, *Javascript*, _Linux_ ** 
+- _I will be happy for good advice_
+---
 ###  Languages and tools  
 
 <img align="left" alt="Ruby" width="46" src="./icons/ruby1.png">
