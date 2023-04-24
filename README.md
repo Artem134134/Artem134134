@@ -4,7 +4,7 @@
 ---
 ## I am a junior full stack developer
 ---
-**Learning: *Ruby*, *Rails*, *Javascript*, _Linux_ ** 
+**Learning:** *Ruby*, *Rails*, *Javascript*, _Linux_  
 - _I will be happy for good advice_
 ---
 ###  Languages and tools  
