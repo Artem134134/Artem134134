@@ -6,6 +6,7 @@
 ---
 **Learning:** *Ruby*, *Rails*, *Javascript*, _Linux_  
 - _I will be happy for good advice_
+- _I will be glad to meet you in any way. :-)_
 ---
 ###  Languages and tools  
 
