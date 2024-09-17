@@ -2,7 +2,7 @@
 
 ## Hi, my name is Artem
 ---
-## I am a junior Backend developer
+## I am a backend developer passionate about Ruby on Rails
 ---
 **Learning:** *Ruby*, *Rails*, *Javascript*, _Linux_  
 - _I will be happy for good advice_
